@@ -17,6 +17,15 @@ const owners = [
         "YTURL": "https://www.youtube.com/channel/UCmO0xdpxQr7fX2Csth_2JOQ"
     }
 ]
+const owners = [
+    {
+        "id": "774611210036707379",
+        "post": "Bot Owner2",
+        "GHURL": "https://github.com/Hadi-Koubeissi",
+        "InstaURL": "",
+        "YTURL": "https://www.youtube.com/channel/UCmO0xdpxQr7fX2Csth_2JOQ"
+    }
+]
 
 for (let indexOne = 0; indexOne < owners.length; indexOne++) {
     const elementOwners = owners[indexOne];

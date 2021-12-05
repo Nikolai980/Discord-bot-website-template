@@ -16,6 +16,7 @@ const owners = [
         "InstaURL": "",
         "YTURL": "https://www.youtube.com/channel/UCmO0xdpxQr7fX2Csth_2JOQ"
     }
+    {
         "id": "774611210036707379",
         "post": "Bot Owner2",
         "GHURL": "https://github.com/Hadi-Koubeissi",
